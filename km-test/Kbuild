@@ -1,0 +1,2 @@
+obj-m := test_km.o
+test_km-y := testkm.o
